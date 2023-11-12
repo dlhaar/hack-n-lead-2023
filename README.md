@@ -29,12 +29,13 @@ The application is built using Streamlit. To generate your own dashboard:
 1. Fork the repo
 2. Create your environment using conda or venv
 3. run `pip3 install -r requirements.txt`
+4. The data used in the dashboard are gathered via a Google Survey. 
+	A template of the google survey can be found in the `docs`
+5. Save the results of the survey as a .csv to the `data` folder.
+6. Follow the directions [here](https://docs.streamlit.io/library/get-started/create-an-app) to deploy your app
 
+To see our dashboard, click on the Streamlit link to deploy the application
 
-Data is gathered via a Google Survey.
-Access the survey in the docs folder.
-Save the results of the survey as a .csv to the data folder.
-Click on the Streamlit link to deploy the application
 Link to [Streamlit app](https://impact-hack-n-lead-2023.streamlit.app/)
 
 
