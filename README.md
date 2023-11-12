@@ -20,8 +20,6 @@ Based on the above needs, objectives and the characteristics of the persona, we 
 2. We propose the data needed for the indicators and have prepared questionnaires for this purpose.
 3. We created a dashboard for organisations to track and analyse the information collected.
 
-
-
 ## Technical info
 
 The application is built using Streamlit. To generate your own dashboard:
@@ -37,4 +35,4 @@ To see our dashboard, click on the Streamlit link to deploy the application
 
 Link to [Streamlit app](https://impact-hack-n-lead-2023.streamlit.app/)
 
-
+Link to [Figma](https://www.figma.com/file/JB0Vxd091qpjainY9I4umJ/Wow-Design-System?type=design&node-id=2403-111&mode=design)   
