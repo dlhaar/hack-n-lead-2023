@@ -266,9 +266,9 @@ else:
 
 ### 'Which soft skills did you improve during the event?'
 # load data from csv file ‘multi_choice.csv’ in a dataframe ‘df_multi_choice’
-df_multi_choice = pd.read_csv(‘data/multi_choice.csv’)
+df_multi_choice = pd.read_csv('data/multi_choice.csv')
 # create a new dataframe ‘df_multi_choice_event’ with data from the selected event
-df_multi_choice_event = df_multi_choice[df_multi_choice[‘event’] == event]
+df_multi_choice_event = df_multi_choice[df_multi_choice['event'] == event]
 
 number_participants = len(df_multi_choice_event.index)
 
