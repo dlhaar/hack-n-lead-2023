@@ -1,6 +1,7 @@
 # [Team Code for Impact - Hack n Lead](https://womenplusplus.ch/hacknlead)
 
 ## Description
+See the `docs` folder for a full description of our product.
 
 ### Context
 
