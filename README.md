@@ -1,7 +1,5 @@
 # [Team Code for Impact - Hack n Lead](https://womenplusplus.ch/hacknlead)
 
-===
-
 ## Description
 
 ### Context
@@ -13,9 +11,9 @@ How do you measure impact? This is a problem many non-profits, especially non-pr
 The aim of this challenge is for you to create a software solution to support non-profit organizations in defining and tracking their impact.
 While your solution ideally is built in a way that allows sufficient customization to cater to a diverse range of organizations, we are conscious of the fact that this is an ambitious goal to begin with. Therefore, it may help you to narrow down your target audience both geographically as well as by topic. So you may for instance want to develop an impact tracker app for non-profits dedicated to increasing diversity in the Swiss tech industry.
 
-### Solution
+### Solution - ImpactDash
 
-Based on the above needs, objectives and the characteristics of the persona, we decided to create a complex solution:
+Based on the above needs, objectives and the characteristics of the persona, we decided to create a comprehensive solution:
 
 1. We have identified the indicators that can most effectively show the impact of activities.
 2. We propose the data needed for the indicators and have prepared questionnaires for this purpose.
