@@ -264,43 +264,6 @@ else:
     st.plotly_chart(fig)
 
 
-### 'Which soft skills did you improve during the event?'
-# load data from csv file ‘multi_choice.csv’ in a dataframe ‘df_multi_choice’
-df_multi_choice = pd.read_csv('data/multi_choice.csv')
-# create a new dataframe ‘df_multi_choice_event’ with data from the selected event
-df_multi_choice_event = df_multi_choice[df_multi_choice['event'] == event]
-
-number_participants = len(df_multi_choice_event.index)
-
-# add columns 'approaching people', 'collaboration with different professionals in a team', 'communication skills', 'none' to dataframe 'df_multi_choice_event' and set values to 0
-df_multi_choice_event.loc[:, 'approaching people'] = 0
-df_multi_choice_event.loc[:, 'collaboration with different professionals in a team'] = 0
-df_multi_choice_event.loc[:, 'communication skills'] = 0
-df_multi_choice_event.loc[:, 'none'] = 0
-
-# create a function which will count the number of times each option is selected within each list in the column 'multi_choice'
-# and add the count to the corresponding column in the dataframe 'df_multi_choice_event'
-def count_options(option):
-    df_multi_choice_event.loc[:, option] = df_multi_choice_event['multi_choice'].apply(lambda x: x.count(option))
-
-# call the function 'count_options' for each option
-count_options('approaching people')
-count_options('collaboration with different professionals in a team')
-count_options('communication skills')
-count_options('none')
-# aggregate the data by option using melt
-df_multi_choice_event_melt = df_multi_choice_event.melt(id_vars=['event'], value_vars=['approaching people', 'collaboration with different professionals in a team', 'communication skills', 'none'], var_name='option', value_name='count')
-
-# drop column 'event' from dataframe 'df_multi_choice_event_melt'
-df_multi_choice_event_melt = df_multi_choice_event_melt.drop(columns=['event'])
-# create a new dataframe with by grouping dataframe 'df_multi_choice_event_melt' by option and summing the count
-df_multi_choice_event_grouped_ = df_multi_choice_event_melt.groupby(['option']).sum().reset_index()
-# Normalize the 'count' values to percentages and add the values to a new column 'count_norm' and turn values to integers
-df_multi_choice_event_grouped_['count_norm'] = df_multi_choice_event_grouped_['count'].apply(lambda x: int(x / number_participants * 100))
-
-# create a horizontal bar chart with the dataframe 'df_multi_choice_event_grouped_'
-fig = px.bar(df_multi_choice_event_grouped_, x='count', y='option', orientation='h')
-st.plotly_chart(fig)
 
 
 
