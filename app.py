@@ -35,16 +35,7 @@ df_all = pd.concat(dfs)
 
 
 #preprocessing - rename columns
-df_all.columns=['user_id',
-            'event',
-            'nps',
-            'transition',
-            'connection',
-            'volunteering',
-            'soft_skills',
-            'confidence',
-            'comm_partner',
-            'other']
+df_all.columns=['user_id','event','nps','transition','connection','volunteering','soft_skills','confidence','comm_partner','other']
 
 def find_count_norm(df:pd.DataFrame, column:str)->pd.DataFrame:
     """
