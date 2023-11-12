@@ -1,0 +1,201 @@
+user_id,event,multi_choice
+1,bootcamp,"['approaching people', 'communication skills', 'collaboration with different professionals in a team']"
+2,bootcamp,"['communication skills', 'collaboration with different professionals in a team', 'approaching people']"
+3,bootcamp,"['approaching people', 'collaboration with different professionals in a team', 'communication skills']"
+4,bootcamp,['collaboration with different professionals in a team']
+5,bootcamp,"['collaboration with different professionals in a team', 'communication skills', 'approaching people']"
+6,bootcamp,"['collaboration with different professionals in a team', 'approaching people', 'communication skills']"
+7,bootcamp,['communication skills']
+8,bootcamp,"['approaching people', 'communication skills', 'collaboration with different professionals in a team']"
+9,bootcamp,"['communication skills', 'collaboration with different professionals in a team', 'approaching people']"
+10,bootcamp,['communication skills']
+11,bootcamp,"['approaching people', 'collaboration with different professionals in a team']"
+12,bootcamp,['communication skills']
+13,bootcamp,['none']
+14,bootcamp,"['collaboration with different professionals in a team', 'communication skills']"
+15,bootcamp,"['approaching people', 'collaboration with different professionals in a team', 'communication skills']"
+16,bootcamp,['communication skills']
+17,bootcamp,['communication skills']
+18,bootcamp,"['approaching people', 'communication skills']"
+19,bootcamp,"['communication skills', 'approaching people', 'collaboration with different professionals in a team']"
+20,bootcamp,"['collaboration with different professionals in a team', 'approaching people', 'communication skills']"
+21,bootcamp,"['communication skills', 'collaboration with different professionals in a team', 'approaching people']"
+22,bootcamp,"['collaboration with different professionals in a team', 'approaching people']"
+23,bootcamp,"['collaboration with different professionals in a team', 'communication skills', 'approaching people']"
+24,bootcamp,"['approaching people', 'collaboration with different professionals in a team']"
+25,bootcamp,"['collaboration with different professionals in a team', 'approaching people', 'communication skills']"
+26,bootcamp,"['communication skills', 'collaboration with different professionals in a team']"
+27,bootcamp,"['communication skills', 'approaching people', 'collaboration with different professionals in a team']"
+28,bootcamp,"['communication skills', 'approaching people', 'collaboration with different professionals in a team']"
+29,bootcamp,"['communication skills', 'collaboration with different professionals in a team', 'approaching people']"
+30,bootcamp,"['collaboration with different professionals in a team', 'approaching people', 'communication skills']"
+31,bootcamp,['none']
+32,bootcamp,"['communication skills', 'approaching people']"
+33,bootcamp,['collaboration with different professionals in a team']
+34,bootcamp,"['communication skills', 'approaching people']"
+35,bootcamp,['communication skills']
+36,bootcamp,"['approaching people', 'collaboration with different professionals in a team', 'communication skills']"
+37,bootcamp,['communication skills']
+38,bootcamp,['collaboration with different professionals in a team']
+39,bootcamp,"['collaboration with different professionals in a team', 'approaching people', 'communication skills']"
+40,bootcamp,['communication skills']
+41,bootcamp,"['collaboration with different professionals in a team', 'approaching people']"
+42,bootcamp,['approaching people']
+43,bootcamp,['approaching people']
+44,bootcamp,"['approaching people', 'collaboration with different professionals in a team', 'communication skills']"
+45,bootcamp,"['collaboration with different professionals in a team', 'approaching people']"
+46,bootcamp,"['collaboration with different professionals in a team', 'approaching people']"
+47,bootcamp,"['communication skills', 'approaching people', 'collaboration with different professionals in a team']"
+48,bootcamp,"['communication skills', 'approaching people', 'collaboration with different professionals in a team']"
+49,bootcamp,"['collaboration with different professionals in a team', 'communication skills']"
+50,bootcamp,"['communication skills', 'approaching people', 'collaboration with different professionals in a team']"
+51,bootcamp,['none']
+52,bootcamp,['approaching people']
+53,bootcamp,['communication skills']
+54,bootcamp,"['communication skills', 'collaboration with different professionals in a team', 'approaching people']"
+55,bootcamp,"['collaboration with different professionals in a team', 'communication skills', 'approaching people']"
+56,bootcamp,"['collaboration with different professionals in a team', 'approaching people']"
+57,bootcamp,"['communication skills', 'collaboration with different professionals in a team']"
+58,bootcamp,"['collaboration with different professionals in a team', 'approaching people', 'communication skills']"
+59,bootcamp,"['communication skills', 'collaboration with different professionals in a team', 'approaching people']"
+60,bootcamp,"['approaching people', 'collaboration with different professionals in a team']"
+61,bootcamp,"['collaboration with different professionals in a team', 'communication skills']"
+62,bootcamp,['communication skills']
+63,bootcamp,['communication skills']
+64,bootcamp,"['collaboration with different professionals in a team', 'approaching people']"
+65,bootcamp,"['communication skills', 'collaboration with different professionals in a team']"
+66,bootcamp,"['communication skills', 'approaching people', 'collaboration with different professionals in a team']"
+67,bootcamp,"['approaching people', 'collaboration with different professionals in a team', 'communication skills']"
+68,bootcamp,['communication skills']
+69,bootcamp,"['approaching people', 'collaboration with different professionals in a team']"
+70,bootcamp,['approaching people']
+71,bootcamp,['approaching people']
+72,bootcamp,"['communication skills', 'approaching people', 'collaboration with different professionals in a team']"
+73,bootcamp,"['communication skills', 'approaching people', 'collaboration with different professionals in a team']"
+74,bootcamp,"['approaching people', 'collaboration with different professionals in a team']"
+75,bootcamp,"['collaboration with different professionals in a team', 'approaching people', 'communication skills']"
+76,bootcamp,"['communication skills', 'collaboration with different professionals in a team']"
+77,bootcamp,['collaboration with different professionals in a team']
+78,bootcamp,"['communication skills', 'approaching people']"
+79,bootcamp,['collaboration with different professionals in a team']
+80,bootcamp,"['approaching people', 'collaboration with different professionals in a team', 'communication skills']"
+81,bootcamp,['communication skills']
+82,bootcamp,"['collaboration with different professionals in a team', 'communication skills', 'approaching people']"
+83,bootcamp,"['approaching people', 'collaboration with different professionals in a team', 'communication skills']"
+84,bootcamp,"['communication skills', 'approaching people', 'collaboration with different professionals in a team']"
+85,bootcamp,"['collaboration with different professionals in a team', 'approaching people']"
+86,bootcamp,['collaboration with different professionals in a team']
+87,bootcamp,"['approaching people', 'communication skills']"
+88,bootcamp,['none']
+89,bootcamp,['approaching people']
+90,bootcamp,"['collaboration with different professionals in a team', 'communication skills', 'approaching people']"
+91,bootcamp,"['communication skills', 'collaboration with different professionals in a team']"
+92,bootcamp,"['collaboration with different professionals in a team', 'approaching people', 'communication skills']"
+93,bootcamp,['approaching people']
+94,bootcamp,"['communication skills', 'collaboration with different professionals in a team', 'approaching people']"
+95,bootcamp,"['approaching people', 'communication skills']"
+96,bootcamp,"['approaching people', 'collaboration with different professionals in a team', 'communication skills']"
+97,bootcamp,['approaching people']
+98,bootcamp,"['communication skills', 'collaboration with different professionals in a team', 'approaching people']"
+99,bootcamp,"['approaching people', 'communication skills', 'collaboration with different professionals in a team']"
+100,bootcamp,"['collaboration with different professionals in a team', 'communication skills', 'approaching people']"
+1,hack,"['communication skills', 'approaching people', 'collaboration with different professionals in a team']"
+2,hack,"['communication skills', 'approaching people']"
+3,hack,['approaching people']
+4,hack,"['communication skills', 'collaboration with different professionals in a team']"
+5,hack,"['approaching people', 'collaboration with different professionals in a team', 'communication skills']"
+6,hack,['none']
+7,hack,"['communication skills', 'approaching people', 'collaboration with different professionals in a team']"
+8,hack,"['approaching people', 'communication skills']"
+9,hack,"['approaching people', 'collaboration with different professionals in a team', 'communication skills']"
+10,hack,"['collaboration with different professionals in a team', 'communication skills']"
+11,hack,"['collaboration with different professionals in a team', 'communication skills']"
+12,hack,['communication skills']
+13,hack,"['communication skills', 'approaching people', 'collaboration with different professionals in a team']"
+14,hack,"['communication skills', 'collaboration with different professionals in a team']"
+15,hack,['collaboration with different professionals in a team']
+16,hack,"['communication skills', 'approaching people', 'collaboration with different professionals in a team']"
+17,hack,['approaching people']
+18,hack,"['collaboration with different professionals in a team', 'communication skills']"
+19,hack,"['collaboration with different professionals in a team', 'approaching people']"
+20,hack,"['approaching people', 'communication skills', 'collaboration with different professionals in a team']"
+21,hack,"['collaboration with different professionals in a team', 'communication skills', 'approaching people']"
+22,hack,"['approaching people', 'collaboration with different professionals in a team']"
+23,hack,"['approaching people', 'communication skills', 'collaboration with different professionals in a team']"
+24,hack,"['approaching people', 'communication skills']"
+25,hack,['approaching people']
+26,hack,"['collaboration with different professionals in a team', 'communication skills']"
+27,hack,"['communication skills', 'collaboration with different professionals in a team', 'approaching people']"
+28,hack,"['communication skills', 'collaboration with different professionals in a team', 'approaching people']"
+29,hack,['collaboration with different professionals in a team']
+30,hack,['approaching people']
+31,hack,"['communication skills', 'collaboration with different professionals in a team']"
+32,hack,['none']
+33,hack,['collaboration with different professionals in a team']
+34,hack,"['approaching people', 'collaboration with different professionals in a team']"
+35,hack,"['communication skills', 'approaching people']"
+36,hack,"['approaching people', 'collaboration with different professionals in a team', 'communication skills']"
+37,hack,"['approaching people', 'collaboration with different professionals in a team', 'communication skills']"
+38,hack,['approaching people']
+39,hack,"['approaching people', 'communication skills', 'collaboration with different professionals in a team']"
+40,hack,"['collaboration with different professionals in a team', 'approaching people']"
+41,hack,['approaching people']
+42,hack,"['collaboration with different professionals in a team', 'approaching people', 'communication skills']"
+43,hack,"['collaboration with different professionals in a team', 'communication skills']"
+44,hack,"['communication skills', 'collaboration with different professionals in a team']"
+45,hack,"['approaching people', 'communication skills', 'collaboration with different professionals in a team']"
+46,hack,"['approaching people', 'collaboration with different professionals in a team', 'communication skills']"
+47,hack,"['collaboration with different professionals in a team', 'approaching people', 'communication skills']"
+48,hack,"['communication skills', 'collaboration with different professionals in a team', 'approaching people']"
+49,hack,"['none']"
+50,hack,['approaching people']
+51,hack,"['approaching people', 'communication skills', 'collaboration with different professionals in a team']"
+52,hack,"['collaboration with different professionals in a team', 'communication skills', 'approaching people']"
+53,hack,"['collaboration with different professionals in a team', 'communication skills', 'approaching people']"
+54,hack,"['approaching people', 'collaboration with different professionals in a team', 'communication skills']"
+55,hack,"['approaching people', 'communication skills']"
+56,hack,"['approaching people', 'collaboration with different professionals in a team', 'communication skills']"
+57,hack,['approaching people']
+58,hack,"['collaboration with different professionals in a team', 'communication skills']"
+59,hack,"['collaboration with different professionals in a team', 'communication skills']"
+60,hack,"['approaching people', 'collaboration with different professionals in a team']"
+61,hack,"['communication skills', 'approaching people', 'collaboration with different professionals in a team']"
+62,hack,"['collaboration with different professionals in a team', 'approaching people']"
+63,hack,"['collaboration with different professionals in a team', 'approaching people']"
+64,hack,"['collaboration with different professionals in a team', 'communication skills']"
+65,hack,['approaching people']
+66,hack,['collaboration with different professionals in a team']
+67,hack,"['approaching people', 'collaboration with different professionals in a team']"
+68,hack,"['communication skills', 'collaboration with different professionals in a team']"
+69,hack,"['communication skills', 'collaboration with different professionals in a team', 'approaching people']"
+70,hack,"['collaboration with different professionals in a team', 'communication skills', 'approaching people']"
+71,hack,['approaching people']
+72,hack,"['approaching people', 'communication skills', 'collaboration with different professionals in a team']"
+73,hack,"['communication skills', 'collaboration with different professionals in a team']"
+74,hack,"['approaching people', 'communication skills', 'collaboration with different professionals in a team']"
+75,hack,"['collaboration with different professionals in a team', 'approaching people', 'communication skills']"
+76,hack,['collaboration with different professionals in a team']
+77,hack,"['collaboration with different professionals in a team', 'approaching people', 'communication skills']"
+78,hack,"['approaching people', 'communication skills']"
+79,hack,"['collaboration with different professionals in a team', 'approaching people', 'communication skills']"
+80,hack,['approaching people']
+81,hack,['none']
+82,hack,['collaboration with different professionals in a team']
+83,hack,['collaboration with different professionals in a team']
+84,hack,"['communication skills', 'approaching people']"
+85,hack,['approaching people']
+86,hack,"['communication skills', 'approaching people']"
+87,hack,"['approaching people', 'collaboration with different professionals in a team', 'communication skills']"
+88,hack,"['approaching people', 'communication skills', 'collaboration with different professionals in a team']"
+89,hack,['approaching people']
+90,hack,['collaboration with different professionals in a team']
+91,hack,"['approaching people', 'collaboration with different professionals in a team']"
+92,hack,"['communication skills', 'collaboration with different professionals in a team', 'approaching people']"
+93,hack,"['collaboration with different professionals in a team', 'communication skills', 'approaching people']"
+94,hack,"['communication skills', 'collaboration with different professionals in a team']"
+95,hack,['collaboration with different professionals in a team']
+96,hack,"['approaching people', 'collaboration with different professionals in a team', 'communication skills']"
+97,hack,['collaboration with different professionals in a team']
+98,hack,"['approaching people', 'communication skills']"
+99,hack,['none']
+100,hack,"['communication skills', 'approaching people', 'collaboration with different professionals in a team']"
